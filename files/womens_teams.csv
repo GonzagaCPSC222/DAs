@@ -1,0 +1,362 @@
+userID,username,name,created_at,followers_count,following_count,tweet_count,ESPN_name,conference,state,institution_name
+2176304269,ACUWBB,ACU Women’s Basketball,2013-11-05 15:34:35+00:00,8316,1035,7417,Abilene Christian Wildcats,WAC,TX,Abilene Christian University
+762830987759874048,aamuwbb,AAMU LADY BULLDOGS,2016-08-09 02:00:55+00:00,7184,6335,3086,Alabama A&M Bulldogs,SWAC,AL,Alabama A & M University
+824666221870219264,BamaStateWBB,Alabama State WBB,2017-01-26 17:12:03+00:00,3660,29,2370,Alabama State Lady Hornets,SWAC,AL,Alabama State University
+1490019892254416896,LadyBravesBask1,Alcorn State Women’s Basketball,2022-02-05 17:50:28+00:00,148,47,22,Alcorn State Lady Braves,SWAC,MS,Alcorn State University
+186210809,AU_WBasketball,AU Women’s Basketball,2010-09-02 21:25:06+00:00,4475,566,10181,American University Eagles,Patriot League,DC,American University
+170877463,AppStateWBB,App State WBB,2010-07-26 00:43:24+00:00,6868,591,14478,Appalachian State Mountaineers,Sun Belt,NC,Appalachian State University
+34052723,SunDevilWBB,Sun Devil WBB,2009-04-21 21:39:35+00:00,12473,629,18591,Arizona State Sun Devils,Pac-12,AZ,Arizona State University Campus Immersion
+774485142,AStateWB,Arkansas State Women's Basketball 🏀,2012-08-22 21:02:05+00:00,5529,158,8755,Arkansas State Red Wolves,Sun Belt,AR,Arkansas State University
+46465103,AuburnWBB,Auburn Women's Basketball,2009-06-11 19:19:07+00:00,17348,638,17593,Auburn Tigers,SEC,AL,Auburn University
+549310450,GovsWBB,Austin Peay Women's Basketball,2012-04-09 15:23:39+00:00,6254,835,12325,Austin Peay Governors,ASUN,TN,Austin Peay State University
+355622848,BallStateWBB,Ball State Women's Basketball,2011-08-15 16:57:41+00:00,6954,599,6544,Ball State Cardinals,Mid-American,IN,Ball State University
+21409003,BaylorWBB,Baylor Women's Basketball,2009-02-20 16:14:32+00:00,58689,158,21027,Baylor Bears,Big 12,TX,Baylor University
+2780467109,BUKnightsWBB,Bellarmine Women's Basketball,2014-09-22 18:30:05+00:00,2763,468,5643,Bellarmine Knights,ASUN,KY,Bellarmine University
+24284494,BelmontWBB,Belmont WBasketball,2009-03-13 23:47:32+00:00,9683,377,20607,Belmont Bruins,Missouri Valley,TN,Belmont University
+1491425443,BCUWBB,Bethune-Cookman WBB,2013-06-07 22:13:25+00:00,5603,300,7218,Bethune-Cookman Wildcats,SWAC,FL,Bethune-Cookman University
+2498184057,BinghamtonUWBB,Binghamton WBB,2014-04-20 21:48:24+00:00,3857,476,5665,Binghamton Bearcats,America East,NY,Binghamton University
+426461216,BroncoSportsWBB,Boise State WBB,2011-12-02 08:10:52+00:00,4727,283,17428,Boise State Broncos,Mountain West,ID,Boise State University
+353177783,bc_wbb,Boston College Women’s Basketball,2011-08-11 17:29:37+00:00,9699,287,15822,Boston College Eagles,ACC,MA,Boston College
+823747020,TerrierWBB,BU Women's Basketball,2012-09-14 18:26:28+00:00,5299,429,5955,Boston University Terriers,Patriot League,MA,Boston University
+1633184833,BGSUwbb,BGSU WBB,2013-07-30 15:19:51+00:00,6919,302,10880,Bowling Green Falcons,Mid-American,OH,Bowling Green State University-Main Campus
+26304789,BradleyWBB,Bradley WBB,2009-03-24 19:36:00+00:00,4959,381,7426,Bradley Braves,Missouri Valley,IL,Bradley University
+295636712,byuwbb,BYU Women's Hoops,2011-05-09 12:04:33+00:00,8288,138,7770,BYU Cougars,West Coast,UT,Brigham Young University
+70968451,BrownU_WBB,Brown Women’s Basketball,2009-09-02 13:50:31+00:00,7457,1946,7065,Brown Bears,Ivy,RI,Brown University
+1372298678,Bryantwbball,Bryant WBB,2013-04-22 14:42:25+00:00,3709,1089,7476,Bryant Bulldogs,America East,RI,Bryant University
+586560344,Bucknell_WBB,Bucknell WBB,2012-05-21 13:53:18+00:00,7330,284,5360,Bucknell Bison,Patriot League,PA,Bucknell University
+278083381,ButlerUWBB,Butler Women’s Basketball,2011-04-06 15:36:49+00:00,7738,258,7861,Butler Bulldogs,Big East,IN,Butler University
+788512765887471616,CBUwbb,California Baptist Women's Basketball,2016-10-18 22:51:08+00:00,1763,262,3785,California Baptist Lancers,WAC,CA,California Baptist University
+1877541307,CalPolyWBB,Cal Poly WBB,2013-09-18 01:07:58+00:00,4420,843,3017,Cal Poly Mustangs,Big West,CA,California Polytechnic State University-San Luis Obispo
+3916718654,csub_wbb,CSUB WOMEN'S BASKETBALL,2015-10-16 18:58:27+00:00,2596,597,2948,Cal State Bakersfield Roadrunners,Big West,CA,California State University-Bakersfield
+1873011337,FresnoStateWBB,Fresno State WBB,2013-09-16 20:48:46+00:00,6056,149,10287,Fresno State Bulldogs,Mountain West,CA,California State University-Fresno
+919875955,FullertonWBB,Titans Women’s Basketball,2012-11-01 21:21:35+00:00,3161,173,9601,Cal State Fullerton Titans,Big West,CA,California State University-Fullerton
+1128420150200266753,CSUNWBB,CSUN Women's Basketball,2019-05-14 22:01:43+00:00,1082,579,1709,Cal State Northridge Matadors,Big West,CA,California State University-Northridge
+2827329103,SacStateWBB,Sac State WBB,2014-09-23 02:51:21+00:00,3643,25,2166,Sacramento State Hornets,Big Sky,CA,California State University-Sacramento
+934771910,GoCamelsWBB,Campbell WBB,2012-11-08 15:36:14+00:00,6575,415,12095,Campbell Fighting Camels,Big South,NC,Campbell University
+42650455,GriffsWBB,Canisius Women’s Basketball,2009-05-26 15:45:09+00:00,4083,264,6507,Canisius Golden Griffins,MAAC,NY,Canisius College
+3000484359,CCSU_WBB,CCSU Women's BBall,2015-01-26 23:15:14+00:00,1732,263,1064,Central Connecticut Blue Devils,Northeast,CT,Central Connecticut State University
+27070584,CMUWBBall,Central Michigan WBB,2009-03-27 19:00:13+00:00,9148,445,16657,Central Michigan Chippewas,Mid-American,MI,Central Michigan University
+3378977254,CSUBucsWBB,CSU Women’s Basketball,2015-07-16 15:28:40+00:00,7784,1676,3907,Charleston Southern Buccaneers,Big South,SC,Charleston Southern University
+913547928685436929,ChiStateWBB,Chicago State WBB,2017-09-28 23:36:13+00:00,2123,1531,1055,Chicago State Cougars,Independents,IL,Chicago State University
+125434609,ClemsonWBB,Clemson Women's Basketball,2010-03-22 20:11:56+00:00,12861,250,10888,Clemson Tigers,ACC,SC,Clemson University
+1725841267,CSU_WBasketball,Cleveland State Women's Basketball,2013-09-03 15:17:22+00:00,4467,340,6770,Cleveland State Vikings,Horizon,OH,Cleveland State University
+1510598305,CoastalWBB,Coastal Women’s Basketball,2013-06-12 13:46:47+00:00,4664,129,7725,Coastal Carolina Chanticleers,Sun Belt,SC,Coastal Carolina University
+1118373504,ColgateWBB,Colgate Women’s Basketball,2013-01-25 04:12:14+00:00,6478,614,8245,Colgate Raiders,Patriot League,NY,Colgate University
+26059833,CofCWBB,Charleston Women’s Hoops,2009-03-23 18:35:20+00:00,5035,1197,12668,Charleston Cougars,Colonial,WV,University of Charleston
+174357589,HCrossWBB,Holy Cross Women's Basketball,2010-08-03 18:52:50+00:00,6052,325,10005,Holy Cross Crusaders,Patriot League,MA,College of the Holy Cross
+29556878,CSUWBasketball,Colorado State Women's Basketball,2009-04-07 21:56:21+00:00,6858,245,12004,Colorado State Rams,Mountain West,CO,Colorado State University-Fort Collins
+993379428,CULionsWBB,Columbia Women's Basketball,2012-12-06 16:26:52+00:00,12300,223,12123,Columbia Lions,Ivy,NY,Columbia University in the City of New York
+1259177090974388229,CoppinState_WBB,Coppin State Women's Basketball,2020-05-09 17:43:22+00:00,2326,267,667,Coppin State Eagles,MEAC,MD,Coppin State University
+36075595,CornellHoopers,CornellWBasketball,2009-04-28 14:18:21+00:00,4858,726,3941,Cornell Big Red,Ivy,NY,Cornell University
+386689306,CreightonWBB,Creighton Women’s Basketball,2011-10-07 18:29:40+00:00,11326,187,13572,Creighton Bluejays,Big East,NE,Creighton University
+372468277,DartmouthWBB,Dartmouth College WBB,2011-09-12 20:43:00+00:00,7890,563,10100,Dartmouth Big Green,Ivy,NH,Dartmouth College
+747817429,DavidsonWBB,Davidson Basketball,2012-08-09 19:42:03+00:00,8277,358,6682,Davidson Wildcats,Atlantic 10,NC,Davidson College
+1417556544506499088,DSU_WBB,Delaware State WBB,2021-07-20 18:46:47+00:00,1131,479,130,Delaware State Lady Hornets,MEAC,DE,Delaware State University
+851197614,DePaulWBBHoops,DePaul Women's Basketball,2012-09-28 14:56:07+00:00,10289,588,7649,DePaul Blue Demons,Big East,IL,DePaul University
+600525563,DrakeWBB,Drake Women's Hoops,2012-06-06 00:05:27+00:00,9331,954,14634,Drake Bulldogs,Missouri Valley,IA,Drake University
+823670647,DrexelWBB,Drexel Women's Basketball,2012-09-14 17:30:38+00:00,7003,551,11187,Drexel Dragons,Colonial,PA,Drexel University
+23799383,DukeWBB,Duke Women’s Basketball,2009-03-11 17:57:06+00:00,39304,368,35916,Duke Blue Devils,ACC,NC,Duke University
+404158876,DuqWBB,Duquesne Women's Basketball,2011-11-03 14:45:54+00:00,6303,635,9256,Duquesne Dukes,Atlantic 10,PA,Duquesne University
+139828320,ECUWBB,East Carolina Women’s Basketball,2010-05-03 20:17:00+00:00,6286,249,8180,East Carolina Pirates,American,NC,East Carolina University
+1425783301,ETSU_WBB,ETSU WBB,2013-05-13 15:44:53+00:00,9317,2157,29155,East Tennessee State Bucs,Southern,TN,East Tennessee State University
+2160866890,EIUWBB,Eastern Illinois WBB,2013-10-30 20:47:57+00:00,3768,313,3182,Eastern Illinois Panthers,Ohio Valley,IL,Eastern Illinois University
+2592236924,EKUWBB,EKU Women's Basketball,2014-06-28 01:17:50+00:00,6045,169,7429,Eastern Kentucky Colonels,ASUN,KY,Eastern Kentucky University
+37010884,EMUWBB,EMU Women's Basketball,2009-05-01 18:49:00+00:00,4194,343,7336,Eastern Michigan Eagles,Mid-American,MI,Eastern Michigan University
+1154727709,EWUWBB,EWU Women's Basketball 🏀,2013-02-06 18:18:27+00:00,3166,499,9313,Eastern Washington Eagles,Big Sky,WA,Eastern Washington University
+63743029,ElonWBasketball,Elon Women's Basketball,2009-08-07 15:00:31+00:00,4775,391,10063,Elon Phoenix,Colonial,NC,Elon University
+76480445,StagsWBball,Fairfield Women’s Basketball,2009-09-22 23:00:59+00:00,3464,212,4183,Fairfield Stags,MAAC,CT,Fairfield University
+203098512,FDUKnightsWBB,FDU Women's Basketball,2010-10-15 14:44:20+00:00,6577,1735,9065,Fairleigh Dickinson Knights,Northeast,NJ,Fairleigh Dickinson University-Metropolitan Campus
+1014936312992976901,FAMU_WBB,Florida A&M Women’s Basketball 🏀,2018-07-05 18:17:28+00:00,3963,145,1385,Florida A&M Rattlers,SWAC,FL,Florida Agricultural and Mechanical University
+2180352223,FAUWBB,FAU Women’s Basketball,2013-11-07 15:50:01+00:00,5330,513,7793,Florida Atlantic Owls,Conference USA,FL,Florida Atlantic University
+618531777,FGCU_WBB,#22 FGCU Women's Basketball,2012-06-25 21:27:48+00:00,7556,529,16470,Florida Gulf Coast Eagles,ASUN,FL,Florida Gulf Coast University
+1124689309574029312,FIUWBB,FIU Women’s Hoops,2019-05-04 14:56:41+00:00,1501,124,3294,Florida International Panthers,Conference USA,FL,Florida International University
+21408229,fsuwbb,FSU Women's Basketball,2009-02-20 16:05:46+00:00,21039,395,22230,Florida State Seminoles,ACC,FL,Florida State University
+158119494,FordhamWBB,Fordham WBB,2010-06-21 20:57:59+00:00,8121,843,13111,Fordham Rams,Atlantic 10,NY,Fordham University
+172604497,FurmanWBB,Furman Women's Basketball,2010-07-30 03:25:34+00:00,8189,247,8360,Furman Paladins,Southern,SC,Furman University
+2356830930,GWU_WBK,Gardner-Webb Women’s Basketball,2014-02-22 19:46:06+00:00,6077,476,3381,Gardner-Webb Runnin' Bulldogs,Big South,NC,Gardner-Webb University
+845745289,MasonWBB,George Mason Women’s Basketball,2012-09-25 15:37:13+00:00,5257,579,11906,George Mason Patriots,Atlantic 10,VA,George Mason University
+552967539,GW_WBB,GW Women's Basketball,2012-04-13 17:49:26+00:00,9492,757,13812,George Washington Colonials,Atlantic 10,DC,George Washington University
+226670892,GeorgetownWBB,Georgetown WBB,2010-12-14 19:32:23+00:00,7311,264,12784,Georgetown Hoyas,Big East,DC,Georgetown University
+33325506,GTWBB,Georgia Tech Women's Basketball,2009-04-19 22:11:29+00:00,11269,326,16783,Georgia Tech Yellow Jackets,ACC,GA,Georgia Institute of Technology-Main Campus
+1606070874,GSAthletics_WBB,Georgia Southern Women’s Basketball,2013-07-19 14:50:56+00:00,5200,108,7564,Georgia Southern Eagles,Sun Belt,GA,Georgia Southern University
+1505988469,GSU_WBB,Georgia State WBB,2013-06-11 18:37:17+00:00,6777,267,6353,Georgia State Panthers,Sun Belt,GA,Georgia State University
+351791916,ZagWBB,Gonzaga Women's Basketball,2011-08-09 18:55:27+00:00,11223,107,11323,Gonzaga Bulldogs,West Coast,WA,Gonzaga University
+1181657301817495552,GSU_WBK,Grambling State University Women's Basketball,2019-10-08 19:47:26+00:00,2482,134,724,Grambling Lady Tigers,SWAC,LA,Grambling State University
+2250019640,GCU_WBB,GCU Women's Basketball,2013-12-17 07:51:27+00:00,8592,383,9797,Grand Canyon Lopes,WAC,AZ,Grand Canyon University
+754728921938231296,LadyPiratesWBB,Lady Pirates WBB,2016-07-17 17:26:11+00:00,6185,3272,1932,Hampton Lady Pirates,Colonial,VA,Hampton University
+119061919,HarvardWBB,Harvard Women's Basketball,2010-03-02 15:13:19+00:00,7765,358,7849,Harvard Crimson,Ivy,MA,Harvard University
+353070286,HPUWBB,HPU Women's Basketball,2011-08-11 14:16:40+00:00,4114,267,7506,High Point Panthers,Big South,NC,High Point University
+844548464,HofstraWBB,Hofstra Women’s Basketball,2012-09-25 00:17:02+00:00,3873,927,9405,Hofstra Pride,Colonial,NY,Hofstra University
+1692095947,Howard_WBB,HowardWBB,2013-08-22 20:51:42+00:00,12356,7439,5185,Howard Bison,MEAC,DC,Howard University
+241581941,HCUWBB,HCU Women's Basketball,2011-01-22 16:32:47+00:00,4258,1075,3752,Houston Christian Huskies,Southland,TX,Houston Baptist University
+76456398,HeartofaBengal,Idaho State WBB,2009-09-22 21:30:48+00:00,3276,373,8348,Idaho State Bengals,Big Sky,ID,Idaho State University
+701296796,RedbirdWBB,Illinois State Women’s Basketball,2012-07-17 15:58:27+00:00,6322,236,13627,Illinois State Redbirds,Missouri Valley,IL,Illinois State University
+712509890,IndStWBB,Indiana State Women's Basketball,2012-07-23 14:26:26+00:00,5091,142,12033,Indiana State Sycamores,Missouri Valley,IN,Indiana State University
+32414973,IndianaWBB,Indiana Women’s Basketball,2009-04-17 14:01:53+00:00,32460,243,20107,Indiana Hoosiers,Big Ten,IN,Indiana University-Bloomington
+1397942536472305670,IUPUI_WBB,IUPUI Women’s Basketball,2021-05-27 15:47:51+00:00,1913,166,803,IUPUI Jaguars,Horizon,IN,Indiana University-Purdue University-Indianapolis
+1310944248,IonaWBB,Iona Women's Hoops,2013-03-28 15:30:54+00:00,7169,648,6057,Iona Gaels,MAAC,NY,Iona University
+38279027,CycloneWBB,Cyclone Basketball,2009-05-06 21:18:35+00:00,32198,496,27530,Iowa State Cyclones,Big 12,IA,Iowa State University
+1028023619253878784,GoJSUTigersWBB,Jackson State Women’s Basketball,2018-08-10 21:01:45+00:00,6899,174,2552,Jackson State Lady Tigers,SWAC,MS,Jackson State University
+1668215988,JaxStateWBB,JSU Women’s Basketball,2013-08-13 16:37:47+00:00,4498,2066,5598,Jacksonville State Gamecocks,ASUN,AL,Jacksonville State University
+1408632908,JAX_WBB,Jacksonville WBB,2013-05-06 20:16:04+00:00,7759,1198,8788,Jacksonville Dolphins,ASUN,FL,Jacksonville University
+278135980,JMUWBasketball,JMU Women's Basketball,2011-04-06 17:42:59+00:00,9002,174,16560,James Madison Dukes,Sun Belt,VA,James Madison University
+214362420,KStateWBB,K-State Women's Basketball,2010-11-11 06:32:41+00:00,12598,393,9485,Kansas State Wildcats,Big 12,KS,Kansas State University
+384867955,KSUOwlsWBB,Kennesaw State WBB,2011-10-04 13:33:18+00:00,5354,758,10499,Kennesaw State Owls,ASUN,GA,Kennesaw State University
+27898195,KentStWBB,Kent State Women’s Basketball,2009-03-31 15:56:12+00:00,6416,355,13541,Kent State Golden Flashes,Mid-American,OH,Kent State University at Kent
+2802021011,LaSalle_WBB,La Salle Women’s Basketball,2014-10-03 14:43:11+00:00,5999,146,5367,La Salle Explorers,Atlantic 10,PA,La Salle University
+582083726,LafayetteWBB,Lafayette WBB,2012-05-16 19:09:59+00:00,6692,671,9261,Lafayette Leopards,Patriot League,PA,Lafayette College
+2722542254,LamarWBB,Lamar Women's Hoops,2014-08-10 21:46:27+00:00,4468,265,5540,Lamar Cardinals,Southland,TX,Lamar University
+366157986,LehighWBB,Lehigh Women's Basketball,2011-09-01 17:36:09+00:00,7392,809,10260,Lehigh Mountain Hawks,Patriot League,PA,Lehigh University
+58597239,LibertyWBB,Liberty Women's Basketball,2009-07-20 21:32:01+00:00,5179,726,8088,Liberty Flames,ASUN,VA,Liberty University
+3232828488,LindenwoodWBB,Lindenwood Women’s Basketball,2015-06-01 20:05:49+00:00,2870,571,3612,Lindenwood Lions,Ohio Valley,MO,Lindenwood University
+404890780,LipscombWBB,Lipscomb Women's Basketball,2011-11-04 15:13:28+00:00,5033,427,7606,Lipscomb Bisons,ASUN,TN,Lipscomb University
+600355896,LBSUWBB,LBSU W Basketball,2012-06-05 17:33:55+00:00,3698,413,11785,Long Beach State Beach,Big West,CA,California State University-Long Beach
+48365201,LIUwbb,LIU Women’s Basketball,2009-06-18 14:27:53+00:00,5910,0,5025,Long Island University Sharks,Northeast,NY,Long Island University
+2714806854,LongwoodWBB,Longwood Women’s Basketball,2014-08-07 15:47:36+00:00,3838,928,5377,Longwood Lancers,Big South,VA,Longwood University
+132636142,LSUwbkb,LSU Women's Basketball,2010-04-13 19:44:10+00:00,62235,484,21405,LSU Tigers,SEC,LA,Louisiana State University and Agricultural & Mechanical College
+77023939,LATechWBB,Lady Techsters,2009-09-24 19:39:20+00:00,6862,410,16341,Louisiana Tech Lady Techsters,Conference USA,LA,Louisiana Tech University
+1151922341510729730,lmulionswb,LMU Women's Basketball,2019-07-18 18:31:02+00:00,989,57,2642,Loyola Marymount Lions,West Coast,CA,Loyola Marymount University
+145613603,RamblersWBB,Loyola Women's Basketball,2010-05-19 11:53:16+00:00,5513,190,8511,Loyola Chicago Ramblers,Atlantic 10,IL,Loyola University Chicago
+378701677,LoyolaWBB,Loyola Maryland WBB,2011-09-23 17:17:27+00:00,5602,865,7474,Loyola Maryland Greyhounds,Patriot League,MD,Loyola University Maryland
+739658646368489474,Manhattan_WBB,Manhattan Women’s Basketball,2016-06-06 03:22:18+00:00,5681,736,5643,Manhattan Jaspers,MAAC,NY,Manhattan College
+2750032236,MaristWBB,Marist Women’s Basketball,2014-08-20 19:14:13+00:00,5697,545,7784,Marist Red Foxes,MAAC,NY,Marist College
+87857137,MarquetteWBB,Marquette WBB,2009-11-06 03:24:09+00:00,9306,416,14239,Marquette Golden Eagles,Big East,WI,Marquette University
+1710421927,HerdWBB,Marshall Women's Basketball,2013-08-29 16:07:04+00:00,5822,284,11279,Marshall Thundering Herd,Sun Belt,WV,Marshall University
+66888952,McNeeseWBB,McNeese Women’s Basketball,2009-08-19 02:51:27+00:00,3295,33,11537,McNeese Cowgirls,Southland,LA,McNeese State University
+1161359122568232960,Mercer_WBB,Mercer Women's Basketball,2019-08-13 19:29:26+00:00,3251,495,3864,Mercer Bears,Southern,GA,Mercer University
+1666028953,MerrimackWBB,Merrimack Women’s Basketball,2013-08-12 20:50:03+00:00,2507,210,6390,Merrimack Warriors,Northeast,MA,Merrimack College
+322997361,MiamiOH_WBB,Miami University WBB,2011-06-24 02:45:42+00:00,6474,301,11694,Miami (OH) Redhawks,Mid-American,OH,Miami University-Oxford
+57415242,MSU_WBasketball,Michigan State Women's Basketball,2009-07-16 19:02:57+00:00,20999,507,15975,Michigan State Spartans,Big Ten,MI,Michigan State University
+620129988,MT_WBB,MT Women's Basketball,2012-06-27 14:37:28+00:00,8977,104,17694,Middle Tennessee Blue Raiders,Conference USA,TN,Middle Tennessee State University
+157412251,HailStateWBK,Mississippi State Women's Basketball,2010-06-19 18:46:33+00:00,59374,185,29408,Mississippi State Bulldogs,SEC,MS,Mississippi State University
+1286031146959220737,MvsuWBB,Valley State Women’s Basketball,2020-07-22 20:11:59+00:00,1467,691,351,Mississippi Valley State Devilettes,SWAC,MS,Mississippi Valley State University
+72193070,MSULadyBears,MSU Lady Bears,2009-09-07 03:21:50+00:00,9806,201,10240,Missouri State Lady Bears,Missouri Valley,MO,Missouri State University-Springfield
+291840684,MUHawksWBB,Monmouth Women's Basketball,2011-05-02 18:05:08+00:00,6140,551,11098,Monmouth Hawks,Colonial,NJ,Monmouth University
+68454783,MSUBobcatsWBB,Montana State WBB,2009-08-24 17:07:01+00:00,5217,531,8482,Montana State Bobcats,Big Sky,MT,Montana State University
+2724080204,MSUEaglesWBB,Morehead State WBB,2014-08-11 14:47:44+00:00,4881,280,2918,Morehead State Eagles,Ohio Valley,KY,Morehead State University
+1176500089923219457,MSUBearsWBB,Morgan State Women’s Basketball,2019-09-24 14:14:28+00:00,1793,115,836,Morgan State Lady Bears,MEAC,MD,Morgan State University
+76202758,Mount_WBB,Mount Women's Basketball,2009-09-22 00:49:41+00:00,3943,855,4140,Mount St. Mary's Mountaineers,MAAC,MD,Mount St. Mary's University
+1090604918,RacersWBB,Murray State Women's Basketball,2013-01-15 00:41:30+00:00,6899,1419,5092,Murray State Racers,Missouri Valley,KY,Murray State University
+3341372835,NJITWBB,NJIT Women’s Basketball,2015-06-22 14:15:21+00:00,4972,633,3285,NJIT Highlanders,America East,NJ,New Jersey Institute of Technology
+3431954025,NMStateWBB,NM State WBB,2015-08-19 20:40:57+00:00,4289,208,8898,New Mexico State Aggies,WAC,NM,New Mexico State University-Main Campus
+815224837,NiagaraWBB,Niagara Women's Basketball,2012-09-10 13:24:10+00:00,5078,538,8511,Niagara Purple Eagles,MAAC,NY,Niagara University
+1877804664,Nicholls_WBB,Nicholls Women’s Basketball,2013-09-18 03:10:33+00:00,4372,974,6149,Nicholls Colonels,Southland,LA,Nicholls State University
+555159455,NorfolkStateWBB,Norfolk State Women’s Basketball,2012-04-16 14:22:57+00:00,3156,363,3826,Norfolk State Spartans,MEAC,VA,Norfolk State University
+620206071,LadyAggieBall,Lady Aggie Ball,2012-06-27 16:12:45+00:00,8898,2989,7073,North Carolina A&T Aggies,Colonial,NC,North Carolina A & T State University
+585048684,NCCUWBB,NC Central WBB,2012-05-19 17:57:42+00:00,3398,331,1303,North Carolina Central Eagles,MEAC,NC,North Carolina Central University
+47335665,PackWomensBball,NC State WBB 🐺🏀,2009-06-15 13:36:56+00:00,26029,878,23696,NC State Wolfpack,ACC,NC,North Carolina State University at Raleigh
+27877068,NDSUwbb,NDSU Women's Basketball,2009-03-31 14:11:17+00:00,5268,643,10118,North Dakota State Bison,Summit League,ND,North Dakota State University-Main Campus
+47677011,GoNUwbasketball,Northeastern Women’s Basketball,2009-06-16 17:05:03+00:00,2968,462,16714,Northeastern Huskies,Colonial,MA,Northeastern University
+1626251382750875648,NAUWomensHoops,NAU Women's Basketball,2023-02-16 16:05:28+00:00,260,536,197,Northern Arizona Lumberjacks,Big Sky,AZ,Northern Arizona University
+1719423613,GoHuskiesWBB,NIU Women's Basketball,2013-09-01 15:31:30+00:00,4494,1016,8862,Northern Illinois Huskies,Mid-American,IL,Northern Illinois University
+339439981,NKUNorseWBB,NKU Women's Basketball 🏀,2011-07-21 03:20:08+00:00,4981,359,5655,Northern Kentucky Norse,Horizon,KY,Northern Kentucky University
+404255050,NSUDemonsWBB,NSU Women's Hoops,2011-11-03 17:19:48+00:00,3573,399,16859,Northwestern State Lady Demons,Southland,LA,Northwestern State University of Louisiana
+41688179,nuwbball,Northwestern Women’s Basketball,2009-05-21 22:02:01+00:00,8574,559,11003,Northwestern Wildcats,Big Ten,IL,Northwestern University
+1056939611287625729,OaklandWBBall,Oakland Women's Basketball,2018-10-29 16:03:35+00:00,1876,256,2150,Oakland Golden Grizzlies,Horizon,MI,Oakland University
+380369869,OhioWBasketball,Ohio Women’s Basketball,2011-09-26 14:49:46+00:00,4853,157,12226,Ohio Bobcats,Mid-American,OH,Ohio University-Main Campus
+389611144,OSUWBB,OSU Cowgirl Basketball,2011-10-12 18:20:56+00:00,18787,585,15623,Oklahoma State Cowgirls,Big 12,OK,Oklahoma State University-Main Campus
+1405560290373083136,ODU_WBB,ODU Women's Basketball,2021-06-17 16:17:49+00:00,1517,39,2159,Old Dominion Monarchs,Sun Belt,VA,Old Dominion University
+1651007112,ORUWBB,ORU W. Basketball,2013-08-06 19:21:09+00:00,3996,136,8247,Oral Roberts Golden Eagles,Summit League,OK,Oral Roberts University
+44724322,BeaverWBB,Oregon State WBB,2009-06-04 21:10:13+00:00,19758,289,28729,Oregon State Beavers,Pac-12,OR,Oregon State University
+69379688,PennStateWBB,Penn State Women's Basketball,2009-08-27 19:26:21+00:00,13245,467,18408,Penn State Lady Lions,Big Ten,PA,The Pennsylvania State University
+809654004,WavesHoops,Pepperdine Women’s Basketball,2012-09-07 21:45:47+00:00,4049,65,10836,Pepperdine Waves,West Coast,CA,Pepperdine University
+2828848856,psuviksWBB,Portland State Women’s Basketball,2014-09-23 22:36:39+00:00,3353,1522,7661,Portland State Vikings,Big Sky,OR,Portland State University
+1004214443327328261,PVAMU_WBB,Prairie View A&M Women's Basketball,2018-06-06 04:12:35+00:00,3628,1858,5163,Prairie View A&M Lady Panthers,SWAC,TX,Prairie View A & M University
+3402840345,bluehosewbb,Presbyterian Women’s Basketball,2015-08-04 16:00:40+00:00,5340,436,4185,Presbyterian Blue Hose,Big South,SC,Presbyterian College
+1491010495,PrincetonWBB,Princeton WBB,2013-06-07 18:16:08+00:00,10689,262,8300,Princeton Tigers,Ivy,NJ,Princeton University
+1449042656,ProvidenceWBB,ProvidenceWBB,2013-05-22 14:05:11+00:00,6890,405,9528,Providence Friars,Big East,RI,Providence College
+38053254,PurdueWBB,Purdue Women's Basketball,2009-05-05 23:35:03+00:00,16534,373,26961,Purdue Boilermakers,Big Ten,IN,Purdue University-Main Campus
+2773401133,MastodonWBB,Purdue Fort Wayne WBB,2014-08-27 14:12:33+00:00,3225,262,5741,Purdue Fort Wayne Mastodons,Horizon,IN,Purdue University Fort Wayne
+819603937,QueensWBB,Queens (N.C.) Women’s Basketball,2012-09-12 13:48:52+00:00,3720,1446,1898,Queens University Royals,ASUN,NC,Queens University of Charlotte
+2478765997,QU_WBB,Quinnipiac Women's Basketball,2014-05-05 19:22:02+00:00,5146,243,9707,Quinnipiac Bobcats,MAAC,CT,Quinnipiac University
+1488563226,Radford_WBB,Radford Women's Basketball,2013-06-06 19:54:12+00:00,8067,317,9875,Radford Highlanders,Big South,VA,Radford University
+789934286,RiceWBB,Rice Women’s Basketball,2012-08-29 18:49:52+00:00,6682,246,13555,Rice Owls,Conference USA,TX,Rice University
+183692406,RiderWBB,Rider Women’s Basketball,2010-08-27 17:12:40+00:00,7278,1302,11127,Rider Broncs,MAAC,NJ,Rider University
+3740773457,RMUWBasketball,RMU Basketball,2015-09-22 17:05:08+00:00,3484,656,9498,Robert Morris Colonials,Horizon,PA,Robert Morris University
+900368808,RutgersWBB,Rutgers W.Basketball,2012-10-23 18:42:48+00:00,11042,389,15001,Rutgers Scarlet Knights,Big Ten,NJ,Rutgers University-New Brunswick
+1653399854,SacredHeartWBB,Sacred Heart WBB,2013-08-07 16:53:18+00:00,6290,1267,5037,Sacred Heart Pioneers,Northeast,CT,Sacred Heart University
+715202615815049217,RedFlashWBB,Saint Francis Women's Basketball,2016-03-30 15:42:46+00:00,3250,267,6898,St. Francis (PA) Red Flash,Northeast,PA,Saint Francis University
+52740653,SJUHawks_WBB,Saint Joseph's WBB,2009-07-01 14:33:08+00:00,8464,140,10485,Saint Joseph's Hawks,Atlantic 10,PA,Saint Joseph's University
+361306361,SaintLouisWBB,Saint Louis WBB,2011-08-24 15:46:46+00:00,5656,719,12077,Saint Louis Billikens,Atlantic 10,MO,Saint Louis University
+285851859,GaelsWBB,Saint Mary's Women's Basketball,2011-04-21 22:23:59+00:00,3526,454,4563,Saint Mary's Gaels,West Coast,CA,Saint Mary's College of California
+735123259239325696,PeacocksWBB,Saint Peter's Women's Basketball,2016-05-24 15:00:17+00:00,4732,217,4395,Saint Peter's Peacocks,MAAC,NJ,Saint Peter's University
+1380096096211460097,Bearkats_WBB,Sam Houston Women’s Basketball,2021-04-08 09:52:21+00:00,1428,325,1204,Sam Houston Bearkats,WAC,TX,Sam Houston State University
+41841217,SamfordWBB,Samford Women's Basketball,2009-05-22 16:07:41+00:00,4498,61,9035,Samford Bulldogs,Southern,AL,Samford University
+1437526388781641733,Aztec_WBB,San Diego State Women's Basketball,2021-09-13 21:20:37+00:00,1215,47,1241,San Diego State Aztecs,Mountain West,CA,San Diego State University
+323282033,SanJoseStateWBB,San José State Women’s Basketball,2011-06-24 15:27:52+00:00,5119,259,7251,San José State Spartans,Mountain West,CA,San Jose State University
+2568282221,Santaclarawbb,Santa Clara Women's Basketball,2014-05-28 03:40:44+00:00,4029,312,3374,Santa Clara Broncos,West Coast,CA,Santa Clara University
+1365012029157728257,seattleu_wbb,Seattle U Women’s Basketball🏀,2021-02-25 18:53:41+00:00,746,68,1616,Seattle U Redhawks,WAC,WA,Seattle University
+199763486,SHUWBB,Seton Hall Women’s Basketball,2010-10-07 17:37:55+00:00,8949,115,13296,Seton Hall Pirates,Big East,NJ,Seton Hall University
+237900088,Siena_WBB,Siena Women’s Basketball,2011-01-13 22:19:38+00:00,3549,1031,12591,Siena Saints,MAAC,NY,Siena College
+1549100695994900480,scstate_wbb,South Carolina State Women’s Basketball,2022-07-18 18:36:22+00:00,420,76,105,South Carolina State Lady Bulldogs,MEAC,SC,South Carolina State University
+845625530,GoJacksWBB,Jackrabbit WBB,2012-09-25 14:26:17+00:00,13775,248,13104,South Dakota State Jackrabbits,Summit League,SD,South Dakota State University
+1161666074137505793,OfficialSEMOWBB,Official SEMO WBB 🏀,2019-08-14 15:49:09+00:00,2278,859,3422,Southeast Missouri State Redhawks,Ohio Valley,MO,Southeast Missouri State University
+2463606469,LionUpWBB,Southeastern Women's Basketball,2014-04-25 19:22:38+00:00,3419,628,3786,SE Louisiana Lady Lions,Southland,LA,Southeastern Louisiana University
+787129693,SIU_WBasketball,Saluki Women's Hoops,2012-08-28 14:25:33+00:00,4334,529,8584,Southern Illinois Salukis,Missouri Valley,IL,Southern Illinois University-Carbondale
+75029786,SIUEWBB,SIUE Women’s Basketball,2009-09-17 14:51:20+00:00,3924,1060,4260,SIU Edwardsville Cougars,Ohio Valley,IL,Southern Illinois University-Edwardsville
+31505708,SMUWBB,SMU Women's Basketball,2009-04-15 20:14:44+00:00,6919,403,9829,SMU Mustangs,American,TX,Southern Methodist University
+40898309,JaguarsWBB,Southern University Women’s Basketball,2009-05-18 15:42:49+00:00,3438,561,3713,Southern Jaguars,SWAC,LA,Southern University and A & M College
+3191473011,SUUWBasketball,SUU Women’s Basketball,2015-04-21 16:52:55+00:00,2776,223,5414,Southern Utah Thunderbirds,WAC,UT,Southern Utah University
+802836055,BonniesWBB,Bonnies Women's Basketball,2012-09-04 17:16:38+00:00,5267,133,12267,St. Bonaventure Bonnies,Atlantic 10,NY,St Bonaventure University
+3341431666,SFBK_WBB,St. Francis Brooklyn WBB 🏀,2015-06-22 13:55:56+00:00,4152,534,3973,St. Francis Brooklyn Terriers,Northeast,NY,St. Francis College
+42703209,StJohnsWBB,St. John's WBB,2009-05-26 19:50:32+00:00,8509,553,20050,St. John's Red Storm,Big East,NY,St. John's University-New York
+188412214,StanfordWBB,Stanford Women’s Basketball,2010-09-08 17:35:54+00:00,38397,256,23480,Stanford Cardinal,Pac-12,CA,Stanford University
+1482783468937486336,SFAWBB,SFA Women's Basketball,2022-01-16 18:35:49+00:00,1615,48,1649,Stephen F. Austin Ladyjacks,WAC,TX,Stephen F Austin State University
+383446464,StetsonWBB,StetsonWBB,2011-10-01 22:12:45+00:00,5731,768,13569,Stetson Hatters,ASUN,FL,Stetson University
+631218173,StonehillWBB,Stonehill Women’s Basketball,2012-07-09 16:19:30+00:00,3120,525,5291,Stonehill Skyhawks,Northeast,MA,Stonehill College
+2381013883,StonyBrookWBB,Stony Brook Women’s Basketball,2014-03-09 20:44:30+00:00,5753,268,9029,Stony Brook Seawolves,Colonial,NY,Stony Brook University
+459511725,CuseWBB,'Cuse Hoops,2012-01-09 19:09:49+00:00,17245,250,18399,Syracuse Orange,ACC,NY,Syracuse University
+794553215781961728,TarletonWBB,Tarleton Women's Basketball,2016-11-04 14:53:43+00:00,3142,498,4481,Tarleton Texans,WAC,TX,Tarleton State University
+201739006,templewbb,Temple Women’s Basketball,2010-10-12 14:30:07+00:00,5434,453,10130,Temple Owls,American,PA,Temple University
+50446856,TSUTigersWBB,Tennessee State Women’s Basketball,2009-06-24 21:28:40+00:00,6066,268,4492,Tennessee State Lady Tigers,Ohio Valley,TN,Tennessee State University
+772216524,TTUWBB,Tennessee Tech Women’s Basketball,2012-08-21 20:38:46+00:00,7624,416,6732,Tennessee Tech Golden Eagles,Ohio Valley,TN,Tennessee Technological University
+57433398,AggieWBB,Texas A&M Women's Basketball,2009-07-16 20:13:37+00:00,28204,779,22063,Texas A&M Aggies,SEC,TX,Texas A & M University-College Station
+2188940252,Lion_WBB,A&M-Commerce WBB,2013-11-11 20:09:02+00:00,4183,231,7217,Texas A&M-Commerce Lions,Southland,TX,Texas A & M University-Commerce
+1174401118702641152,Islanders_WBB,Islanders Women's Basketball,2019-09-18 19:13:50+00:00,1765,201,2630,Texas A&M-Corpus Christi Islanders,Southland,TX,Texas A & M University-Corpus Christi
+98755653,TCUWbasketball,TCU Women’s Basketball,2009-12-23 00:40:48+00:00,11702,192,14825,TCU Horned Frogs,Big 12,TX,Texas Christian University
+928135583200956417,TSUWomensHoops,TSU Lady Tigers Basketball,2017-11-08 05:42:21+00:00,2731,109,697,Texas Southern Tigers,SWAC,TX,Texas Southern University
+409544756,TXStateWBB,Texas State WBB,2011-11-10 22:02:04+00:00,7956,1278,10946,Texas State Bobcats,Sun Belt,TX,Texas State University
+707539159,LadyRaiderWBB,Lady Raider Basketball,2012-07-20 17:52:56+00:00,16530,895,13310,Texas Tech Lady Raiders,Big 12,TX,Texas Tech University
+900280416,OhioStateWBB,Ohio State WBB,2012-10-23 17:40:07+00:00,23123,437,13002,Ohio State Buckeyes,Big Ten,OH,Ohio State University-Main Campus
+377444119,CharlotteWBB,Charlotte Women's Basketball,2011-09-21 15:52:22+00:00,6082,301,10622,Charlotte 49ers,Conference USA,NC,University of North Carolina at Charlotte
+576701400,uncgwbb,UNCG WBB,2012-05-10 22:19:50+00:00,7300,543,7004,UNC Greensboro Spartans,Southern,NC,University of North Carolina at Greensboro
+1694377544,SouthernMissWBB,Southern Miss Women's Basketball,2013-08-23 17:20:50+00:00,6284,62,12651,Southern Miss Golden Eagles,Sun Belt,MS,University of Southern Mississippi
+1439461705,UTRGVwbb,UTRGV Women's Basketball,2013-05-18 21:01:15+00:00,2977,196,5300,UT Rio Grande Valley Vaqueros,WAC,TX,The University of Texas Rio Grande Valley
+634787222,TUWBasketball,Tulsa W Basketball,2012-07-13 18:56:01+00:00,4663,685,6649,Tulsa Golden Hurricane,American,OK,University of Tulsa
+312784438,Towson_WBB,Towson Women's Basketball,2011-06-07 17:21:20+00:00,6853,353,12595,Towson Tigers,Colonial,MD,Towson University
+601182453,TroyTrojansWBB,Troy Women’s Basketball,2012-06-06 16:30:52+00:00,5952,106,10833,Troy Trojans,Sun Belt,AL,Troy University
+31132543,GreenWaveWBB,Tulane Women's Hoops,2009-04-14 14:24:50+00:00,5774,400,11206,Tulane Green Wave,American,LA,Tulane University of Louisiana
+576475296,AF_WBB,Air Force Women's Basketball,2012-05-10 16:58:02+00:00,3645,192,6405,Air Force Falcons,Mountain West,CO,United States Air Force Academy
+759511459,ArmyWP_WBB,Army Women's Basketball,2012-08-15 14:45:04+00:00,5785,828,9970,Army Black Knights,Patriot League,NY,United States Military Academy
+326955427,NavyWBB,Navy Women's Basketball,2011-06-30 19:20:30+00:00,3651,277,4664,Navy Midshipmen,Patriot League,MD,United States Naval Academy
+900068228,UAlbanyWBB,UAlbany WBB,2012-10-23 15:18:08+00:00,5224,217,10362,Albany Great Danes,America East,NY,SUNY at Albany
+764413795,UBwomenshoops,UB Women's Hoops,2012-08-17 20:41:49+00:00,8254,205,8357,Buffalo Bulls,Mid-American,NY,University at Buffalo
+601178398,ZipsWBB,Akron Zips Women’s Basketball,2012-06-06 18:16:40+00:00,5717,386,11649,Akron Zips,Mid-American,OH,University of Akron Main Campus
+83875176,AlabamaWBB,Alabama Women’s Basketball,2009-10-20 16:20:36+00:00,24909,200,15668,Alabama Crimson Tide,SEC,AL,The University of Alabama
+1415682262780190720,UAB_WBBALL,UAB Women's Basketball,2021-07-15 14:38:55+00:00,1640,214,2568,UAB Blazers,Conference USA,AL,University of Alabama at Birmingham
+805589190,ArizonaWBB,Arizona Basketball,2012-09-05 23:13:19+00:00,27865,365,17269,Arizona Wildcats,Pac-12,AZ,University of Arizona
+1920194935,LittleRockWBB,Little Rock WBB,2013-09-30 13:55:18+00:00,3553,121,12295,Little Rock Trojans,Ohio Valley,AR,University of Arkansas at Little Rock
+621264046,RazorbackWBB,Razorback WBB,2012-06-28 19:51:32+00:00,32325,265,13950,Arkansas Razorbacks,SEC,AR,University of Arkansas
+910236123854774272,UAPBLionsWBB,UAPB Women’s Basketball,2017-09-19 20:16:18+00:00,2401,221,902,Arkansas-Pine Bluff Golden Lions,SWAC,AR,University of Arkansas at Pine Bluff
+321017030,CalWBBall,Cal Basketball,2011-06-20 22:04:41+00:00,12715,480,22001,California Golden Bears,Pac-12,CA,University of California-Berkeley
+1452108896,ucdaviswbb,UC Davis Women’s Basketball,2013-05-23 17:48:57+00:00,3422,548,4178,UC Davis Aggies,Big West,CA,University of California-Davis
+335326031,UCIwbb,UCI Women's Basketball,2011-07-14 14:22:39+00:00,2657,331,8102,UC Irvine Anteaters,Big West,CA,University of California-Irvine
+327099499,UCLAWBB,UCLA W. Basketball,2011-07-01 00:28:58+00:00,22175,1898,19567,UCLA Bruins,Pac-12,CA,University of California-Los Angeles
+191136650,UCR_WBB,UCR Women's Basketball,2010-09-15 18:00:12+00:00,2296,490,2439,UC Riverside Highlanders,Big West,CA,University of California-Riverside
+3760456393,UCSDwbb,UC San Diego WBB,2015-10-02 15:45:34+00:00,3363,574,3741,UC San Diego Tritons,Big West,CA,University of California-San Diego
+1945161349,UCSB_WBB,UC Santa Barbara Women’s Basketball,2013-10-07 20:50:10+00:00,4251,480,2454,UC Santa Barbara Gauchos,Big West,CA,University of California-Santa Barbara
+2649163399,ucawbb,Sugar Bear Basketball,2014-07-15 20:17:47+00:00,3482,202,3083,Central Arkansas Bears,ASUN,AR,University of Central Arkansas
+30271901,UCF_WBB,UCF Women's Hoops,2009-04-10 17:59:31+00:00,10239,185,10833,UCF Knights,American,FL,University of Central Florida
+79275039,GoBearcatsWBB,Cincinnati Women's Basketball,2009-10-02 20:07:39+00:00,6383,304,11812,Cincinnati Bearcats,American,OH,University of Cincinnati-Main Campus
+50805641,CUBuffsWBB,Colorado Women's Basketball 🦬,2009-06-25 23:07:29+00:00,9774,701,17068,Colorado Buffaloes,Pac-12,CO,University of Colorado Boulder
+242785840,UConnWBB,UConn Women’s Basketball,2011-01-25 16:02:10+00:00,161213,162,18833,UConn Huskies,Big East,CT,University of Connecticut
+42664229,DaytonWBB,Dayton Women's Hoops,2009-05-26 16:51:47+00:00,9163,1095,11866,Dayton Flyers,Atlantic 10,OH,University of Dayton
+3299382868,DelawareWBB,Delaware Women’s Basketball,2015-05-26 14:42:56+00:00,7813,218,9520,Delaware Blue Hens,Colonial,DE,University of Delaware
+48033891,DU_WHoops,Denver Women's Hoops,2009-06-17 17:12:40+00:00,3713,399,15123,Denver Pioneers,Summit League,CO,University of Denver
+3439634158,Detroit_WBB,Detroit Mercy WBB,2015-08-25 18:58:36+00:00,4380,279,6585,Detroit Mercy Titans,Horizon,MI,University of Detroit Mercy
+1658296332,UEAthletics_WBB,Evansville Women's Basketball,2013-08-09 18:14:05+00:00,4150,814,4143,Evansville Purple Aces,Missouri Valley,IN,University of Evansville
+40292670,GatorsWBK,Gators Women’s Basketball,2009-05-15 17:51:34+00:00,18620,1519,28112,Florida Gators,SEC,FL,University of Florida
+1430729515,UGA_WBB,Georgia Basketball 🏀🐶,2013-05-15 15:00:54+00:00,15764,717,9771,Georgia Lady Bulldogs,SEC,GA,University of Georgia
+327560035,HartfordWBB,Hartford Hawks Women's Basketball,2011-07-01 19:27:34+00:00,3663,164,7885,Hartford Hawks,Independents,CT,University of Hartford
+352550941,HawaiiWBB,Hawai‘i Women's Basketball,2011-08-10 19:43:31+00:00,5293,89,8310,Hawai'i Rainbow Wahine,Big West,HI,University of Hawaii at Manoa
+172789911,UHCougarWBB,Houston Women's Basketball,2010-07-30 16:27:14+00:00,8762,294,19329,Houston Cougars,American,TX,University of Houston
+351043033,VandalsWBB,Idaho WBB,2011-08-08 18:11:26+00:00,3989,231,9926,Idaho Vandals,Big Sky,ID,University of Idaho
+772189351,UIC_WBB,UIC W. Basketball 🔥🏀,2012-08-21 20:17:27+00:00,3150,374,5751,UIC Flames,Missouri Valley,IL,University of Illinois Chicago
+45412765,IlliniWBB,Illinois Women's Basketball,2009-06-07 20:10:18+00:00,13425,301,15385,Illinois Fighting Illini,Big Ten,IL,University of Illinois Urbana-Champaign
+902089998,IowaWBB,Iowa Women's Basketball,2012-10-24 15:56:31+00:00,63124,289,22751,Iowa Hawkeyes,Big Ten,IA,University of Iowa
+436871866,KUWBball,Kansas Women's Basketball,2011-12-14 17:47:14+00:00,12499,249,15986,Kansas Jayhawks,Big 12,KS,University of Kansas
+56402878,KentuckyWBB,Kentucky Women’s Basketball,2009-07-13 15:36:47+00:00,51256,972,23868,Kentucky Wildcats,SEC,KY,University of Kentucky
+546513940,RaginCajunsWBB,Louisiana Ragin' Cajuns® Women's Basketball,2012-04-06 04:26:14+00:00,6223,1158,11504,Louisiana Ragin' Cajuns,Sun Belt,LA,University of Louisiana at Lafayette
+1560760602,ULM_WBB,ULM Women's Basketball,2013-07-01 15:22:54+00:00,5404,376,9875,UL Monroe Warhawks,Sun Belt,LA,University of Louisiana at Monroe
+199331680,LouisvilleWBB,Louisville Women’s Basketball,2010-10-06 16:04:48+00:00,47879,349,14953,Louisville Cardinals,ACC,KY,University of Louisville
+44691693,BlackBearsWBB,Maine Women's Basketball,2009-06-04 19:09:25+00:00,5791,54,11243,Maine Black Bears,America East,ME,University of Maine
+2690486407,ESHawksWBB,Hawk Women's Hoops 🏀,2014-07-29 16:12:32+00:00,1421,351,8662,Maryland-Eastern Shore Lady Hawks,MEAC,MD,University of Maryland Eastern Shore
+1720435309,UMBCwbb,UMBC W. Basketball,2013-09-01 22:27:43+00:00,3629,1075,6856,UMBC Retrievers,America East,MD,University of Maryland-Baltimore County
+873861104,TerpsWBB,Maryland Women’s Basketball,2012-10-11 15:54:10+00:00,33394,834,24561,Maryland Terrapins,Big Ten,MD,University of Maryland-College Park
+1700579846,RiverHawkWBB,UMass Lowell WBB,2013-08-26 01:04:56+00:00,3478,397,8464,UMass Lowell River Hawks,America East,MA,University of Massachusetts-Lowell
+288824446,UMassWBB,UMass Women's Basketball,2011-04-27 14:44:50+00:00,6533,476,12446,UMass Minutewomen,Atlantic 10,MA,University of Massachusetts-Amherst
+161348589,MemphisWBB,Memphis Women's Basketball,2010-06-30 16:31:41+00:00,7655,405,19661,Memphis Tigers,American,TN,University of Memphis
+1689005886,CanesWBB,Hurricanes Women’s Basketball,2013-08-21 19:20:56+00:00,14591,429,21025,Miami Hurricanes,ACC,FL,University of Miami
+22643259,umichwbball,Michigan Women’s Basketball,2009-03-03 16:43:24+00:00,34237,440,32174,Michigan Wolverines,Big Ten,MI,University of Michigan-Ann Arbor
+378174762,GopherWBB,Minnesota Women's Basketball,2011-09-22 19:25:24+00:00,19677,324,25245,Minnesota Golden Gophers,Big Ten,MN,University of Minnesota-Twin Cities
+211267493,OleMissWBB,Ole Miss Women's BB,2010-11-02 19:52:14+00:00,21253,280,25213,Ole Miss Rebels,SEC,MS,University of Mississippi
+207229569,MizzouWBB,Mizzou Basketball,2010-10-24 21:01:58+00:00,26413,488,21264,Missouri Tigers,SEC,MO,University of Missouri-Columbia
+1244970396115505152,KCRoosWBB,Kansas City Women's Basketball,2020-03-31 12:53:07+00:00,2379,792,2412,Kansas City Roos,Summit League,MO,University of Missouri-Kansas City
+260336341,MontanaGrizWBB,Montana Lady Griz,2011-03-03 17:46:14+00:00,5185,101,8669,Montana Lady Griz,Big Sky,MT,The University of Montana
+847821883,OmahaWBB,Omaha Women’s Basketball,2012-09-26 17:41:45+00:00,4231,89,9871,Omaha Mavericks,Summit League,NE,University of Nebraska at Omaha
+64736595,HuskersWBB,Nebraska WBB,2009-08-11 15:05:30+00:00,33525,668,15444,Nebraska Cornhuskers,Big Ten,NE,University of Nebraska-Lincoln
+861798690,UNLVLadyRebels,UNLV Lady Rebels,2012-10-04 18:05:16+00:00,6818,703,10290,UNLV Lady Rebels,Mountain West,NV,University of Nevada-Las Vegas
+1702472515,NevadaWBB,Nevada WBB,2013-08-26 17:08:39+00:00,4673,253,9897,Nevada Wolf Pack,Mountain West,NV,University of Nevada-Reno
+291765864,UNHWBB,New Hampshire Women's Basketball,2011-05-02 15:44:39+00:00,4878,692,5459,New Hampshire Wildcats,America East,NH,University of New Hampshire-Main Campus
+2273472757,UNMLoboWBB,Lobo Women's Basketball,2014-01-02 19:37:40+00:00,6623,300,10790,New Mexico Lobos,Mountain West,NM,University of New Mexico-Main Campus
+2436102780,PrivateersWBB,New Orleans Women's Basketball,2014-04-09 22:11:32+00:00,1627,239,5210,New Orleans Privateers,Southland,LA,University of New Orleans
+34360658,UNAHOOPS,North Alabama WBB,2009-04-22 18:56:10+00:00,6140,399,6016,North Alabama Lions,ASUN,AL,University of North Alabama
+770171222,UNCAvlWBB,Asheville Women's Basketball,2012-08-20 20:27:18+00:00,8157,3430,6671,UNC Asheville Bulldogs,Big South,NC,University of North Carolina at Asheville
+211645320,UNCWwomenshoops,UNCW Women's Basketball,2010-11-03 21:11:49+00:00,5317,233,12665,UNC Wilmington Seahawks,Colonial,NC,University of North Carolina Wilmington
+24732831,uncwbb,Carolina Women's Basketball,2009-03-16 17:41:45+00:00,35512,793,20517,North Carolina Tar Heels,ACC,NC,University of North Carolina at Chapel Hill
+66499490,UNDwbasketball,North Dakota Women's Basketball,2009-08-17 21:56:06+00:00,4789,231,9640,North Dakota Fighting Hawks,Summit League,ND,University of North Dakota
+621961715,OspreyWBB,UNF Women's Basketball,2012-06-29 14:50:32+00:00,7027,640,9500,North Florida Ospreys,ASUN,FL,University of North Florida
+152497586,MeanGreenWBB,UNT Women's Basketball,2010-06-06 03:22:13+00:00,7389,500,11163,North Texas Mean Green,Conference USA,TX,University of North Texas
+373549892,UNC_BearsWBB,UNC Bears WBB,2011-09-14 19:43:30+00:00,3772,187,8796,Northern Colorado Bears,Big Sky,CO,University of Northern Colorado
+42892785,UNIwbb,UNI Women’s Hoops,2009-05-27 14:27:37+00:00,5724,203,11626,Northern Iowa Panthers,Missouri Valley,IA,University of Northern Iowa
+34428499,ndwbb,Notre Dame WBB,2009-04-22 22:44:27+00:00,60407,267,24543,Notre Dame Fighting Irish,ACC,IN,University of Notre Dame
+184859323,OU_WBBall,Oklahoma Basketball,2010-08-30 17:20:18+00:00,37289,591,21900,Oklahoma Sooners,Big 12,OK,University of Oklahoma-Norman Campus
+76082864,OregonWBB,Oregon Women’s Basketball,2009-09-21 17:19:13+00:00,46581,509,29416,Oregon Ducks,Pac-12,OR,University of Oregon
+65398070,PennWBB,Penn WBB,2009-08-13 16:11:18+00:00,10309,848,15807,Pennsylvania Quakers,Ivy,PA,University of Pennsylvania
+40031458,Pitt_WBB,Pitt Basketball,2009-05-14 16:44:08+00:00,11455,1011,17328,Pittsburgh Panthers,ACC,PA,University of Pittsburgh-Pittsburgh Campus
+2733747424,PortlandWBB,Portland Pilots Women's Basketball,2014-08-04 23:23:14+00:00,3555,1157,4783,Portland Pilots,West Coast,OR,University of Portland
+44725142,RhodyWBB,Rhody WBB,2009-06-04 21:12:53+00:00,5786,495,9780,Rhode Island Rams,Atlantic 10,RI,University of Rhode Island
+36745074,SpiderWBBall,Richmond Women’s Basketball,2009-04-30 19:16:17+00:00,5321,560,16442,Richmond Spiders,Atlantic 10,VA,University of Richmond
+47758968,USDwbb,San Diego Women's Basketball,2009-06-16 22:37:25+00:00,5182,2180,7192,San Diego Toreros,West Coast,CA,University of San Diego
+2657318696,USFDonsWBB,USF Women's Basketball,2014-07-18 17:59:53+00:00,3980,314,6229,San Francisco Dons,West Coast,CA,University of San Francisco
+1503706866,SouthAlabamaWBB,South Alabama Women's Basketball 🏀,2013-06-11 14:27:37+00:00,7077,483,14131,South Alabama Jaguars,Sun Belt,AL,University of South Alabama
+333682008,upstateWBB,USC Upstate Women’s Basketball,2011-07-11 22:35:41+00:00,6410,1382,6066,South Carolina Upstate Spartans,Big South,SC,University of South Carolina-Upstate
+89492950,GamecockWBB,South Carolina Women's Basketball,2009-11-12 17:23:36+00:00,116228,367,26912,South Carolina Gamecocks,SEC,SC,University of South Carolina-Columbia
+1514559769,SDCoyotesWBB,South Dakota Women’s Basketball,2013-06-13 21:41:36+00:00,9222,678,10856,South Dakota Coyotes,Summit League,SD,University of South Dakota
+188461843,USFWBB,USF W. Basketball,2010-09-08 19:57:03+00:00,11411,574,19412,South Florida Bulls,American,FL,University of South Florida
+323291174,USCWBB,USC Women's Basketball,2011-06-24 15:45:15+00:00,10608,192,12545,USC Trojans,Pac-12,CA,University of Southern California
+1030274221304373248,usiwbb,USI Women’s Basketball,2018-08-17 02:04:50+00:00,1886,174,964,Southern Indiana Screaming Eagles,Ohio Valley,IN,University of Southern Indiana
+397035073,TommieWBBall,St. Thomas Women's Basketball,2011-10-24 04:22:52+00:00,3213,155,6398,St. Thomas - Minnesota Tommies,Summit League,MN,University of St Thomas
+59554532,GoMocsWBK,Chattanooga WBB,2009-07-23 18:57:29+00:00,7671,1118,7513,Chattanooga Mocs,Southern,TN,The University of Tennessee-Chattanooga
+633058266,UTMartinWBB,UT Martin Women’s Basketball,2012-07-11 15:21:13+00:00,4611,460,2081,UT Martin Skyhawks,Ohio Valley,TN,The University of Tennessee-Martin
+245536839,LadyVol_Hoops,Lady Vols Basketball,2011-01-31 22:40:38+00:00,97457,430,28143,Tennessee Lady Volunteers,SEC,TN,The University of Tennessee-Knoxville
+386650553,UTAMavsWBB,UTA Lady Mavs,2011-10-07 17:07:07+00:00,5925,810,7867,UT Arlington Mavericks,WAC,TX,The University of Texas at Arlington
+26803607,TexasWBB,Texas Women's Basketball,2009-03-26 17:49:48+00:00,42561,302,23255,Texas Longhorns,Big 12,TX,The University of Texas at Austin
+415159709,UTEPWBB,UTEP Women’s Basketball,2011-11-18 00:03:56+00:00,6625,343,19658,UTEP Miners,Conference USA,TX,The University of Texas at El Paso
+479679098,UTSAWBB,UTSA Women’s Basketball,2012-01-31 17:04:23+00:00,5331,263,8107,UTSA Roadrunners,Conference USA,TX,The University of Texas at San Antonio
+718784292,UIWWBB,UIW Women's Basketball,2012-07-26 21:18:11+00:00,3438,193,4267,Incarnate Word Cardinals,Southland,TX,University of the Incarnate Word
+28365984,Pacific_Hoops,Pacific Women's Hoops,2009-04-02 16:16:13+00:00,3577,489,10125,Pacific Tigers,West Coast,OR,Pacific University
+305727396,ToledoWBB,Toledo Women's Basketball,2011-05-26 18:08:28+00:00,8753,772,12042,Toledo Rockets,Mid-American,OH,University of Toledo
+42964432,UTAHWBB,Utah Women’s Basketball,2009-05-27 20:43:32+00:00,8292,357,16463,Utah Utes,Pac-12,UT,University of Utah
+48731667,UVMwbb,UVM Women's Basketball,2009-06-19 15:16:48+00:00,4263,839,7308,Vermont Catamounts,America East,VT,University of Vermont
+414995139,UVAWomensHoops,Virginia Women's Basketball,2011-11-17 19:23:59+00:00,10297,382,12463,Virginia Cavaliers,ACC,VA,University of Virginia-Main Campus
+37716042,UW_WBB,Washington Women’s Basketball,2009-05-04 18:06:56+00:00,14853,160,22931,Washington Huskies,Pac-12,WA,University of Washington-Seattle Campus
+42886682,gbphoenixwbb,Green Bay Women’s Basketball,2009-05-27 13:57:30+00:00,6553,233,12361,Green Bay Phoenix,Horizon,WI,University of Wisconsin-Green Bay
+45891626,BadgerWBB,Wisconsin Basketball,2009-06-09 17:39:07+00:00,12846,174,20879,Wisconsin Badgers,Big Ten,WI,University of Wisconsin-Madison
+338545730,MKE_WBB,Milwaukee Women's Basketball,2011-07-19 18:55:22+00:00,4370,454,7822,Milwaukee Panthers,Horizon,WI,University of Wisconsin-Milwaukee
+410031518,wyo_wbb,Wyoming Cowgirl Basketball,2011-11-11 15:02:07+00:00,7183,118,10174,Wyoming Cowgirls,Mountain West,WY,University of Wyoming
+630517472,USUWBasketball,USU Women's Hoops,2012-07-08 21:00:02+00:00,3674,185,10607,Utah State Aggies,Mountain West,UT,Utah State University
+744953212281593856,UtahTech_WBB,Utah Tech Women's Basketball,2016-06-20 18:01:01+00:00,3468,2143,2332,Utah Tech Trailblazers,WAC,UT,Utah Tech University
+1686766507,UVUwbb,UVU Women's Basketball,2013-08-20 21:25:48+00:00,2313,208,3884,Utah Valley Wolverines,WAC,UT,Utah Valley University
+70947238,ValpoWBB,Valpo Women’s Basketball,2009-09-02 12:06:48+00:00,3760,745,7892,Valparaiso Beacons,Missouri Valley,IN,Valparaiso University
+21338010,VandyWBB,Vanderbilt WBB,2009-02-19 20:55:54+00:00,12634,394,18717,Vanderbilt Commodores,SEC,TN,Vanderbilt University
+937168172,novawbb,Villanova WBB,2012-11-09 15:37:30+00:00,11983,259,14035,Villanova Wildcats,Big East,PA,Villanova University
+51052838,VCUWBB,VCU Women's Basketball,2009-06-26 13:20:36+00:00,2933,391,2983,VCU Rams,Atlantic 10,VA,Virginia Commonwealth University
+244187798,HokiesWBB,Virginia Tech Women's Basketball,2011-01-28 18:37:47+00:00,18295,298,14281,Virginia Tech Hokies,ACC,VA,Virginia Polytechnic Institute and State University
+553831465,WagnerWHoops,Wagner Women’s Basketball,2012-04-14 20:56:18+00:00,6833,784,5698,Wagner Seahawks,Northeast,NY,Wagner College
+82620093,WakeWBB,Wake Forest Women's Basketball,2009-10-15 13:44:27+00:00,10842,471,15792,Wake Forest Demon Deacons,ACC,NC,Wake Forest University
+210133397,WSUCougarWBB,WSU Cougar Women's 🏀,2010-10-30 17:08:50+00:00,8694,307,16087,Washington State Cougars,Pac-12,WA,Washington State University
+57076457,WeberStateWBB,Weber State WBB,2009-07-15 17:22:43+00:00,3883,212,3943,Weber State Wildcats,Big Sky,UT,Weber State University
+1480316438,WVUWBB,WVU Women's Basketball,2013-06-03 18:09:39+00:00,18133,776,17863,West Virginia Mountaineers,Big 12,WV,West Virginia University
+3344900559,CatamountWBB,Western Carolina WBB,2015-06-25 02:04:04+00:00,6255,952,2454,Western Carolina Catamounts,Southern,NC,Western Carolina University
+310473871,WIUWBB,WIU Women's Basketball,2011-06-03 20:21:58+00:00,4173,194,9663,Western Illinois Leathernecks,Summit League,IL,Western Illinois University
+1398070116,LadyTopperHoops,WKU Women’s Basketball,2013-05-02 20:06:38+00:00,7681,213,18921,Western Kentucky Lady Toppers,Conference USA,KY,Western Kentucky University
+2847006927,WMU_WBB,WMU Women's BBall,2014-10-27 17:55:30+00:00,4560,489,8319,Western Michigan Broncos,Mid-American,MI,Western Michigan University
+932998178,GoShockersWBB,Wichita State Women’s Basketball,2012-11-07 21:37:46+00:00,5749,169,6979,Wichita State Shockers,American,KS,Wichita State University
+365606451,WMTribeWBB,William & Mary Tribe Women's Basketball,2011-08-31 18:30:24+00:00,5874,696,7355,William & Mary Tribe,Colonial,VA,William & Mary
+385019084,WinthropWBB,Winthrop WBB,2011-10-04 18:41:52+00:00,4259,418,3567,Winthrop Eagles,Big South,SC,Winthrop University
+2590068895,Wofford_WBB,WOFFORD WBB,2014-06-26 18:21:44+00:00,8558,1489,5430,Wofford Terriers,Southern,SC,Wofford College
+3835298266,WSUWBasketball,Wright State Women’s Basketball,2015-10-01 17:03:44+00:00,4538,378,4049,Wright State Raiders,Horizon,OH,Wright State University-Main Campus
+1614320550,XavierWBB,Xavier Women's Basketball,2013-07-23 04:18:31+00:00,8505,253,8355,Xavier Musketeers,Big East,OH,Xavier University
+366237769,YaleWBasketball,Yale Women’s Basketball,2011-09-01 20:33:06+00:00,7868,347,7528,Yale Bulldogs,Ivy,CT,Yale University
+42917746,YSUWomensHoops,Youngstown State WBB🐧,2009-05-27 16:28:54+00:00,6369,161,8911,Youngstown State Penguins,Horizon,OH,Youngstown State University
